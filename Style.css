@@ -147,7 +147,7 @@ text-align: center;
     height: 60px;
     position: relative;
     background-color: #7b3af4;
-    border: none;
+    border: solid;
     border-radius: 50px;
     display: flex;
     flex-direction: row;
